@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 📚 I’m a 3rd year B.Tech CSE student.
 
-🌱 I’m currently learning full-stack development and cloud development.
+🌱 I’m currently learning full-stack web development and cloud development.
 
 🚀 I’m also pursuing the AWS Certified Developer – Associate certification, focusing on cloud development.
 
