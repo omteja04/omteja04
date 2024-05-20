@@ -23,5 +23,12 @@ Here are some ideas to get you started:
 
 🚀 I’m also pursuing the AWS Certified Developer – Associate certification, focusing on cloud development.
 
+## Recent Project
+
 Check out my recent project: [Sushi-Shinobi 🍣](https://github.com/omteja04/sushi-shinobi)
+
+## Reach Me
+
+- 📧 Email: [yallapragadaomteja@gmail.com.com](mailto:yallapragadaomteja@gmail.com.com)
+- 💼 LinkedIn: [Omteja Yallapragada](https://www.linkedin.com/in/omteja)
 
