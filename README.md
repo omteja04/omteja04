@@ -1,6 +1,6 @@
-### Hi there 👋
 
 <!--
+### Hi there 👋
 **omteja04/omteja04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 👋 Hi, I’m Omteja!
+
+📚 I’m a 3rd year B.Tech CSE student.
+
+🌱 I’m currently learning full-stack development and cloud development.
+
+🚀 I’m also pursuing the AWS Certified Developer – Associate certification, focusing on cloud development.
+
