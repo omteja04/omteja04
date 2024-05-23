@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  <!-- cSpell:disable -->
+
 ![Omteja Yallapragada](teja.png)
+
 <h1 align="center"> 👋 Hi, I’m Omteja!</h1>
 <h3 align="center">A Student Pursuing Bachelor of Technology in Computer Science.</h3>
 <h4 align="center">I enjoy standing out—it's a hobby of mine.</h4>
@@ -53,11 +55,12 @@ Check out my recent project: [Sushi-Shinobi 🍣](https://github.com/omteja04/su
 <a href="https://www.leetcode.com/omteja04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omteja04" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/omteja04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="omteja04" height="30" width="40" /></a>
 <a href="https://atcoder.jp/users/omteja04" target="blank"><img align="center" src="https://img.atcoder.jp/assets/top/img/logo_bk.svg" alt="omteja04" height="30" width="40" /></a>
-
-<!-- <a href="https://www.hackerearth.com/@omteja04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@omteja04" height="30" width="40" /></a> -->
 </p>
 
+<!-- <a href="https://www.hackerearth.com/@omteja04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@omteja04" height="30" width="40" /></a> -->
+
 <h3 align="left">Languages and Tools:</h3>
+<p align="left">
 <!-- <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> -->
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -70,8 +73,6 @@ Check out my recent project: [Sushi-Shinobi 🍣](https://github.com/omteja04/su
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
 </p>
-
-###
 
 <!-- <details>
 <summary> -->
@@ -89,7 +90,6 @@ Check out my recent project: [Sushi-Shinobi 🍣](https://github.com/omteja04/su
   <img src="https://streak-stats.demolab.com?user=omteja04&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
 
 <!-- </details> -->
 
