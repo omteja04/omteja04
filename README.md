@@ -18,9 +18,7 @@ Here are some ideas to get you started:
  <!-- cSpell:disable -->
 
 ![Omteja Yallapragada](teja.png)
-
-<h1 align="center">Omteja!</h1>
-<!-- <h1 align="center"> 👋 Hi, I’m Omteja!</h1> -->
+<h1 align="center"> 👋 Hi, I’m Omteja!</h1>
 <h3 align="center">A Student Pursuing Bachelor of Technology in Computer Science.</h3>
 <h4 align="center">I enjoy standing out—it's a hobby of mine.</h4>
 
