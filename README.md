@@ -74,7 +74,7 @@ Check out my recent project: [Sushi-Shinobi 🍣](https://github.com/omteja04/su
 
 <details>
 <summary>
-🔥   My Stats :
+🔥   <b>My Stats</b> :
 </summary>
 
 
