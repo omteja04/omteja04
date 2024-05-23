@@ -89,8 +89,8 @@ Check out my recent project: [Sushi-Shinobi 🍣](https://github.com/omteja04/su
 
 ###
 
-<br clear="both">
+<!-- <br clear="both">
 
 <img src="https://raw.githubusercontent.com/omteja04/omteja04/output/snake.svg" alt="Snake animation" />
 
-###
+### -->
