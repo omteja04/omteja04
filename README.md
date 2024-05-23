@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  <!-- cSpell:disable -->
-![Omteja Yallapragada](Teja.png)
+![Omteja Yallapragada](teja.png)
 <h1 align="center"> 👋 Hi, I’m Omteja!</h1>
 <h3 align="center">A Student Pursuing Bachelor of Technology in Computer Science.</h3>
 <h4 align="center">I enjoy standing out—it's a hobby of mine.</h4>
