@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 🚀 I’m also pursuing the AWS Certified Developer – Associate certification, focusing on cloud development.
 
-- 👨‍💻 Some of my work is showcased here [Portfolio](https://omteja04.github.io/my-portfolio)
+- 👨‍💻 Some of my work is showcased here [Portfolio](https://omteja04.github.io/)
 
 - ⚡ Fun fact **"Call me Levi"**
 
