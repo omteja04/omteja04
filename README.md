@@ -41,7 +41,7 @@ Check out my recent project: [Sushi-Shinobi 🍣](https://github.com/omteja04/su
 
 ## Reach Me
 
-- 📧 Email: [yallapragadaomteja@gmail.com.com](mailto:yallapragadaomteja@gmail.com.com)
+- 📧 Email: [yallapragadaomteja@gmail.com](mailto:yallapragadaomteja@gmail.com.com)
 - 💼 LinkedIn: [Omteja Yallapragada](https://www.linkedin.com/in/omteja)
 
 <h3 align="left">Connect with me:</h3>
