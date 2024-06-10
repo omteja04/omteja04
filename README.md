@@ -18,6 +18,7 @@ Here are some ideas to get you started:
  <!-- cSpell:disable -->
 
 ![Omteja Yallapragada](teja.png)
+
 <h1 align="center"> 👋 Hi, I’m Omteja!</h1>
 <h3 align="center">A Student Pursuing Bachelor of Technology in Computer Science.</h3>
 <h4 align="center">I enjoy standing out—it's a hobby of mine.</h4>
@@ -26,7 +27,7 @@ Here are some ideas to get you started:
 
 - 🔎 I'm actively seeking Internship Opportunities, **If you are someone who is hiring or can refer me please reach out to me.**
 
-- 🌱 I’m currently learning full-stack web development and cloud development.
+- 🌱 I’m currently learning front-end web development and cloud development.
 
 - 🚀 I’m also pursuing the AWS Certified Developer – Associate certification, focusing on cloud development.
 
@@ -88,7 +89,6 @@ Check out my recent project: [Sushi-Shinobi 🍣](https://github.com/omteja04/su
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=omteja04&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
 
 <!-- </details> -->
 
