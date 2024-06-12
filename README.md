@@ -81,9 +81,11 @@ Check out my recent project: [Sushi-Shinobi 🍣](https://github.com/omteja04/su
 <summary> -->
 
 <!-- </summary> -->
+
+<div align="center">
 <h3 align="left">LeetCode Statistics:</h3>
 <a href="https://leetcode.com/omteja04/">
-    <img src="https://leetcard.jacoblin.cool/omteja04?ext=contest" alt="Teja's Leetcode Stats">
+    <img src="https://leetcard.jacoblin.cool/omteja04?ext=contest" alt="Teja's LeetCode Stats">
 </a>
 
 <h3 align="left">GeeksforGeeks Statistics:</h3>
@@ -93,12 +95,9 @@ Check out my recent project: [Sushi-Shinobi 🍣](https://github.com/omteja04/su
 
 <h3 align="left">CodeForces Statistics:</h3>
 <a href="https://codeforces.com/profile/omteja04">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=omteja04" alt="Teja's CodeForces Stats">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=omteja04&theme=dark&disable_animations=false&show_icons=true&force_username=true" alt="Teja's Codeforces Stats">
 </a>
-<h3 align="left">CodeChef Statistics:</h3>
-<a href="https://www.codechef.com/users/omteja04">
-    <img src="https://codechef-stats-api.herokuapp.com/?username=omteja04" alt="Teja's CodeChef Stats">
-</a>
+</div>
 
 <h3 align="left">Github Statistics:</h3>
 <div align="center">
