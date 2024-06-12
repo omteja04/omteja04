@@ -83,11 +83,6 @@ Check out my recent project: [Sushi-Shinobi 🍣](https://github.com/omteja04/su
 <!-- </summary> -->
 
 <div align="center">
-<h3 align="left">LeetCode Statistics:</h3>
-<a href="https://leetcode.com/omteja04/">
-    <img src="https://leetcard.jacoblin.cool/omteja04?ext=contest" alt="Teja's LeetCode Stats">
-</a>
-
 <h3 align="left">GeeksforGeeks Statistics:</h3>
 <a href="https://auth.geeksforgeeks.org/user/omteja04">
     <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=omteja04" alt="Teja's GeeksforGeeks Stats">
@@ -97,6 +92,11 @@ Check out my recent project: [Sushi-Shinobi 🍣](https://github.com/omteja04/su
 <a href="https://codeforces.com/profile/omteja04">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=omteja04&theme=dark&disable_animations=false&show_icons=true&force_username=true" alt="Teja's Codeforces Stats">
 </a>
+<h3 align="left">LeetCode Statistics:</h3>
+<a href="https://leetcode.com/omteja04/">
+    <img src="https://leetcard.jacoblin.cool/omteja04?ext=contest" alt="Teja's LeetCode Stats">
+</a>
+
 </div>
 
 <h3 align="left">Github Statistics:</h3>
