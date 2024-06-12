@@ -44,7 +44,7 @@ Check out my recent project: [Sushi-Shinobi 🍣](https://github.com/omteja04/su
 - 📧 Email: [yallapragadaomteja@gmail.com](mailto:yallapragadaomteja@gmail.com.com)
 - 💼 LinkedIn: [Omteja Yallapragada](https://www.linkedin.com/in/omteja)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rage-fox&label=Profile%20views&color=0e75b6&style=flat" alt="rage-fox" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omteja04&label=Profile%20views&color=0e75b6&style=flat" alt="omteja04" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 
