@@ -82,17 +82,25 @@ Check out my recent project: [Sushi-Shinobi 🍣](https://github.com/omteja04/su
 
 <!-- </summary> -->
 <h3 align="left">LeetCode Statistics:</h3>
-
-[![Harsha's Leetcode Stats](https://leetcard.jacoblin.cool/omteja04?ext=contest)](https://leetcode.com/omteja04/)
+<a href="https://leetcode.com/omteja04/">
+    <img src="https://leetcard.jacoblin.cool/omteja04?ext=contest" alt="Teja's Leetcode Stats">
+</a>
 
 <h3 align="left">GeeksforGeeks Statistics:</h3>
-
-[![Harsha's GeeksforGeeks Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=omteja04)](https://auth.geeksforgeeks.org/user/omteja04)
+<a href="https://auth.geeksforgeeks.org/user/omteja04">
+    <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=omteja04" alt="Teja's GeeksforGeeks Stats">
+</a>
 
 <h3 align="left">CodeForces Statistics:</h3>
+<a href="https://codeforces.com/profile/omteja04">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=omteja04" alt="Teja's CodeForces Stats">
+</a>
+<h3 align="left">CodeChef Statistics:</h3>
+<a href="https://www.codechef.com/users/omteja04">
+    <img src="https://codechef-readme-stats.vercel.app/api/card?username=omteja04" alt="Teja's CodeChef Stats">
+</a>
 
-[![CodeForces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=omteja04)](https://codeforces.com/profile/omteja04)
-
+<h3 align="left">Github Statistics:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omteja04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=omteja04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
