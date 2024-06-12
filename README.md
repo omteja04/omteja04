@@ -97,7 +97,7 @@ Check out my recent project: [Sushi-Shinobi 🍣](https://github.com/omteja04/su
 </a>
 <h3 align="left">CodeChef Statistics:</h3>
 <a href="https://www.codechef.com/users/omteja04">
-    <img src="https://codechef-readme-stats.vercel.app/api/card?username=omteja04" alt="Teja's CodeChef Stats">
+    <img src="https://codechef-stats-api.herokuapp.com/?username=omteja04" alt="Teja's CodeChef Stats">
 </a>
 
 <h3 align="left">Github Statistics:</h3>
