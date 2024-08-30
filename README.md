@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
  <!-- cSpell:disable -->
 
-![Omteja Yallapragada](MyBanner.png)
+![Omteja Yallapragada](https://github.com/omteja04/omteja04/blob/icons/MyBanner-2.png)
 
 <h1 align="center"> Hi<img src="https://github.com/omteja04/omteja04/blob/icons/Hi.gif" width="28px"/>, I’m Omteja!</h1>
 <h3 align="center">A Student Pursuing Bachelor of Technology in Computer Science.</h3>
