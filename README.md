@@ -33,7 +33,7 @@ As an innovative Software Engineer, I have a strong background in programming an
  <details>
   <summary><h4> <img align="center" src="https://github.com/omteja04/omteja04/blob/icons/academics.gif"  width="29"/> Academics</h2></summary>
 
-  <span><img src="https://img.shields.io/badge/BTECH-ACET_CSE'26-1877F2?style=for-the-badge"></span>
+  <span> <a href="www.acet.ac.in"> <img src="https://img.shields.io/badge/BTECH-ACET_CSE'26-1877F2?style=for-the-badge"> </a> </span>
   <span><img src="https://img.shields.io/badge/GPA-8.43/10.0-EFEEE9?style=for-the-badge"></span>
   
 </details>
