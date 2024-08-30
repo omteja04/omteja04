@@ -29,6 +29,17 @@ Here are some ideas to get you started:
 As an innovative Software Engineer, I have a strong background in programming and problem-solving. I am proficient in multiple programming languages and development tools, and I am currently learning AWS Cloud Development with a keen interest in Web Development. I am enthusiastic about collaborating with cross-functional teams to create innovative products and am always seeking opportunities to apply and expand my skills in dynamic environments.
 
 ⚡ Fun fact **"Call me Levi"**
+
+<div align="center">
+
+<div align="center">
+ <img src="https://komarev.com/ghpvc/?username=omteja04&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+<a href="https://omteja04.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
+</a>
+
+</div>
+
 <details>
  <summary><h2> <img align="center" src="https://github.com/omteja04/omteja04/blob/icons/about.png" width="37" /> Resume</h2></summary>
 
