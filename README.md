@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![Omteja Yallapragada](MyBanner.png)
 
-<h1 align="center"> 👋 Hi, I’m Omteja!</h1>
+<h1 align="center"> Hi<img src="https://github.com/omteja04/omteja04/blob/icons/Hi.gif" width="28px"/>, I’m Omteja!</h1>
 <h3 align="center">A Student Pursuing Bachelor of Technology in Computer Science.</h3>
 <h4 align="center">I enjoy standing out—it's a hobby of mine.</h4>
 
