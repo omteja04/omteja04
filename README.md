@@ -32,7 +32,7 @@ As an innovative Software Engineer, I have a strong background in programming an
 
 <div align="center">
  <img src="https://komarev.com/ghpvc/?username=omteja04&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
-<a href="https://omteja04.github.io/" target="__blank">
+<a href="https://omteja04.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
 </a>
 
