@@ -126,21 +126,21 @@ As an innovative Software Engineer, I have a strong background in programming an
   ### GeeksforGeeks
   <div align="center">
     <a href="https://auth.geeksforgeeks.org/user/omteja04">
-      <img height="316" src="https://geeks-for-geeks-stats-api.vercel.app/?userName=omteja04" alt="Teja's Solver GeeksforGeeks Stats"/>
+      <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=omteja04" alt="Teja's Solver GeeksforGeeks Stats"/>
     </a>
   </div>
   
   ### Codeforces
   <div align="center">
     <a href="https://codeforces.com/profile/omteja04">
-      <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=omteja04&theme=github_dark&force_username=true&border_color=404040" alt="Teja's Solver Codeforces Stats"/>
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=omteja04&theme=github_dark&force_username=true&border_color=404040" alt="Teja's Solver Codeforces Stats"/>
     </a>
   </div>
 
   ### Leetcode
   <div align="center">
   <a href="https://leetcode.com/omteja04">
-  <img height="316" src="https://leetcard.jacoblin.cool/omteja04?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/omteja04/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Teja's Solver Leetcode Stats"/>
+  <img  src="https://leetcard.jacoblin.cool/omteja04?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/omteja04/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Teja's Solver Leetcode Stats"/>
   </a>
  </div>
 
