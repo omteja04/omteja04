@@ -123,7 +123,7 @@ As an innovative Software Engineer, I have a strong background in programming an
 - Developed a comprehensive and user-friendly landing page of a restaurant with impressive performance in all devices.
 - Implemented smooth scroll animations significantly enhancing the user experience by adding interactive elements.
 
-#### <a href="https://github.com/omteja04/InventoryManagementSystem">Sushi - Shinobi</a>
+#### <a href="https://github.com/omteja04/InventoryManagementSystem">Inventory Management System</a>
 
 <span><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></span>
 
