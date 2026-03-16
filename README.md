@@ -8,7 +8,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=omteja04&color=dc143c&style=for-the-badge" alt="Profile Views" />
-  <a href="https://omteja04.github.io/" target="_blank">
+  <a href="https://nameisomteja.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </div>
